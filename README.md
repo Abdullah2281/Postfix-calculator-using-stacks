@@ -18,7 +18,7 @@ This project implements a postfix calculator using stacks. The postfix notation,
 ### Testing Steps
 
 1. **Setup**:
-    - Place all the `.cpp` files and the files in the tester(debug_testcase, main.cpp) in one directory.
+    - Place all the `.cpp` and '.h' files and the files in the tester(debug_testcases, main.cpp, .DS_Store) in one directory.
 
 2. **Compilation**:
     - Navigate to the directory containing the `.cpp` files using the terminal.
