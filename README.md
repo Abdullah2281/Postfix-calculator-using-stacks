@@ -2,6 +2,8 @@
 
 This project implements a postfix calculator using stacks. The postfix notation, also known as the Reverse Polish Notation (RPN), is a mathematical notation in which operators follow their operands. 
 
+## Author:- Abdullah
+
 ## How it Works
 
 1. **Postfix Conversion**: The input infix expression is first converted to a postfix expression.
